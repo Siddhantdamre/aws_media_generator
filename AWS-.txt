@@ -1,0 +1,5 @@
+AWS- 
+Acc iD- 009023165858
+region- Asia Pacific(Mumbai)
+passkey- 090465 - link : arn:aws:iam::009023165858:u2f/root/Damre-ZIYG7C6VFFAQHJ7BKDMXZ6XQZQ
+Access key- AKIAQEGOSSWROURZIEUQ
